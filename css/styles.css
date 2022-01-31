@@ -16,7 +16,6 @@
   /* header section */
   .studio{
     font-family: Raleway;
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -39,7 +38,6 @@
   }
 
   .site-nav-link {
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
@@ -47,7 +45,6 @@
     color: var(--title-text-color);
   }
   .site-nav-link.current{
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
@@ -64,7 +61,6 @@
   }
   .auth-nav-link {
     list-style: none;
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
@@ -81,7 +77,6 @@
   background: var(--fon-color);
   }
   .main-section{
-      font-style: normal;
       font-weight: 900;
       font-size: 44px;
       line-height: 1.4; 
@@ -149,8 +144,6 @@
   }
 
   .work-text{
-   font-style: normal;
-  font-weight: normal;
   font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.03em;
